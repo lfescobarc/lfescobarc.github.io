@@ -18,7 +18,36 @@ let setThemeSetting = (themeSetting) => {
 
   document.documentElement.setAttribute("data-theme-setting", themeSetting);
 
+  // Update toggle icons immediately (if present) then apply theme changes.
+  updateToggleIcons(themeSetting);
+
   applyTheme();
+};
+
+// Update the theme toggle icons to reflect the current setting (system/dark/light).
+let updateToggleIcons = (themeSetting) => {
+  try {
+    const sys = document.getElementById("light-toggle-system");
+    const dark = document.getElementById("light-toggle-dark");
+    const light = document.getElementById("light-toggle-light");
+    if (!sys && !dark && !light) return;
+
+    if (themeSetting === "system") {
+      if (sys) sys.style.display = "";
+      if (dark) dark.style.display = "none";
+      if (light) light.style.display = "none";
+    } else if (themeSetting === "dark") {
+      if (sys) sys.style.display = "none";
+      if (dark) dark.style.display = "";
+      if (light) light.style.display = "none";
+    } else {
+      if (sys) sys.style.display = "none";
+      if (dark) dark.style.display = "none";
+      if (light) light.style.display = "";
+    }
+  } catch (e) {
+    // ignore if DOM not ready
+  }
 };
 
 // Apply the computed dark or light theme to the website.
@@ -299,10 +328,14 @@ let initTheme = () => {
   // Add event listener to the theme toggle button.
   document.addEventListener("DOMContentLoaded", function () {
     const mode_toggle = document.getElementById("light-toggle");
+    // Ensure icons are in sync once DOM is ready.
+    updateToggleIcons(themeSetting);
 
-    mode_toggle.addEventListener("click", function () {
-      toggleThemeSetting();
-    });
+    if (mode_toggle) {
+      mode_toggle.addEventListener("click", function () {
+        toggleThemeSetting();
+      });
+    }
   });
 
   // Add event listener to the system theme preference change.
