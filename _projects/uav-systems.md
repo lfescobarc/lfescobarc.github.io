@@ -8,6 +8,29 @@ category: work
 related_publications: true
 _styles: |
   .project-thumb { max-height: 220px; width: auto; display:block; margin-left:auto; margin-right:auto; }
+  /* Ensure embedded videos are responsive and fill the container consistently */
+  .embed-responsive {
+    position: relative;
+    display: block;
+    width: 100%;
+    padding: 0;
+    overflow: hidden;
+  }
+  .embed-responsive::before {
+    content: "";
+    display: block;
+    padding-top: 56.25%; /* 16:9 */
+  }
+  .embed-responsive .embed-responsive-item,
+  .embed-responsive iframe,
+  .embed-responsive video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
 ---
 
 YouTube demo: 

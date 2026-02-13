@@ -188,3 +188,21 @@
     color: var(--global-hover-color);
   }
 }
+
+/* Remove list bullets in the navbar on small screens to avoid ugly markers */
+@media (max-width: 575.98px) {
+  .navbar-nav {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+  }
+
+  .navbar-nav li {
+    list-style: none;
+  }
+
+  /* Ensure nav links align nicely when stacked */
+  .navbar-nav .nav-link {
+    padding-left: 0.5rem;
+  }
+}
