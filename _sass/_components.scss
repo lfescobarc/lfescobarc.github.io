@@ -279,5 +279,11 @@ ul.task-list input[type="checkbox"] {
 .text-justify {
   text-align: justify;
   text-justify: inter-word;
-  hyphens: auto;
+  /* Disable automatic hyphenation to avoid excessive word splitting */
+  hyphens: none;
+  -webkit-hyphens: none;
+  -ms-hyphens: none;
+  /* Prevent aggressive word breaking while allowing normal wrap */
+  word-break: normal;
+  overflow-wrap: break-word;
 }
