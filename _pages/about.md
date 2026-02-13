@@ -27,10 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Mechatronics Engineer and a Ph.D. candidate in Robotics at West Virginia University, with over a decade of experience bridging the gap between industrial automation and advanced academic research.
+<div class="text-justify" markdown="1">
+I am a Mechatronics Engineer and a Ph.D. candidate in Robotics at West Virginia University, with over a decade of experience bridging the gap between industrial automation and academic research.
 
 Currently, my work focuses on autonomous navigation for GNSS-denied environments. I design and fabricate custom multirotor UAVs and formulate energy-aware coverage path planning algorithms for complex, subterranean inspections. My daily technical stack heavily involves ROS 2, multi-robot coordination, and hardware-in-the-loop simulations.
 
 Prior to my doctoral studies, I served as a Professor and Head of the Robotics Laboratory at Universidad de las Fuerzas Armadas ESPE in Ecuador, where I led the implementation of the university's Mechatronics Engineering program. I also bring hands-on industry experience in continuous improvement and industrial automation, having deployed robotic systems and optimized workflows for engineering teams.
 
 I am actively seeking postdoctoral research opportunities starting in May 2026. Feel free to download my CV, view my latest publications, or contact me using the links in the header.
+</div>
