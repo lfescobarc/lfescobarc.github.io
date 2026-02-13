@@ -111,6 +111,21 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+/* Mobile fixes: prevent bullets and titles overlapping on small screens */
+@media (max-width: 575px) {
+  .cv .card {
+    .card-title {
+      margin-bottom: 0.5rem;
+      display: block;
+    }
+
+    .list-group-item {
+      padding-left: 1rem !important;
+      word-break: break-word;
+    }
+  }
+}
+
 .table-cv-map {
   background-color: transparent;
   border: none;
