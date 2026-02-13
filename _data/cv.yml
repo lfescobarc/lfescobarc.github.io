@@ -1,14 +1,17 @@
 cv:
-  name: "Luis F. Escobar C."
-  label: "Robotics Engineer — PhD Student"
+  name: "Luis F. Escobar, Ph.D. Candidate"
+  label: "Mechatronics/Robotics Engineer — PhD Candidate"
   email: luisfescobarc@gmail.com
   location: Morgantown, WV, USA
   image: ""
-  summary: "Experienced Robotics Engineer and researcher with a strong background in mechatronics and industrial automation. Available for full-time roles starting May 2026."
+  summary: "Mechatronics and robotics researcher focused on GNSS‑denied autonomous systems, ROS 2, multi‑robot coordination, UAV energy optimization, and industrial automation. Available for postdoctoral roles starting May 2026."
+  research_interests: "Mechatronics, Robotics, GNSS‑denied Autonomous Systems, ROS 2, Multi‑Robot Coordination, UAV Path Planning, UAV Energy Optimization, Industrial Automation, Mechatronics Design, Engineering Education"
 
   social_networks:
     - network: LinkedIn
       url: https://www.linkedin.com/in/luisfescobarc/
+    - network: Website
+      url: https://lfescobarc.github.io
 
   address:
     city: Morgantown
@@ -20,14 +23,15 @@ cv:
       - institution: West Virginia University
         location: Morgantown, USA
         area: Robotics
-        studyType: PhD Student
+        studyType: PhD Candidate
         start_date: 2023
         end_date: 2026
+        note: "Dissertation: Energy Aware path planning for multirotor UAVs"
 
       - institution: University of Pennsylvania
         location: Philadelphia, USA
         area: Robotics
-        studyType: PhD Student
+        studyType: PhD Student (transferred)
         start_date: 2021
         end_date: 2022
 
@@ -38,103 +42,113 @@ cv:
         start_date: 2012
         end_date: 2015
 
-      - institution: ITESM
-        location: Monterrey, México
-        area: Mechatronic Engineering
+      - institution: ITESM - Monterrey Institute of Technology
+        location: Monterrey, Mexico
+        area: Mechatronics Engineering
         studyType: B.Sc.
         start_date: 2004
         end_date: 2009
 
     Experience:
+      - company: West Virginia University
+        position: Graduate Research Assistant
+        location: Morgantown, USA
+        start_date: 2023
+        end_date: Present
+        summary: "Developing autonomous navigation stacks for GNSS‑denied underground environments; leading mechatronic design and prototyping of multirotor UAVs; implementing energy‑aware optimization for coverage path planning."
+
       - company: Universidad de las Fuerzas Armadas ESPE
         position: Professor & Head of Laboratory
         location: Sangolquí, Ecuador
         start_date: 2015
         end_date: 2021
+        summary: "Directed the Robotics Laboratory, supervised undergraduate theses in industrial automation and mechatronics design, and led the Best Research Team (2019)."
 
       - company: Lainbori S.A.
         position: Senior Engineer
         location: Quito, Ecuador
         start_date: 2016
         end_date: 2021
+        summary: "Led continuous improvement initiatives and implemented Kanban and project management strategies to optimize operational workflows."
 
-      - company: Ternium
-        position: Systems Engineer
-        location: Monterrey, México
+      - company: Universidad de las Fuerzas Armadas ESPE
+        position: Professor
+        location: Sangolquí, Ecuador
         start_date: 2009
         end_date: 2012
+        summary: "Led the implementation of the undergraduate Mechatronics Engineering program. Coordinated curricula across Mechanics, Electronics, and IT departments. Served as the lead instructor for capstone courses as the university’s sole Mechatronics Engineer."
+
+      - company: Ternium
+        position: Continuous Improvement Intern
+        location: Monterrey, Mexico
+        start_date: 2009
+        end_date: 2009
+        summary: "Collaborated with Six Sigma Black Belts on cost‑reduction and safety projects."
 
       - company: Volkswagen AG
         position: Production Systems Intern
         location: Kassel, Germany
         start_date: 2008
-        end_date: 2009
+        end_date: 2008
+        summary: "Analyzed production system and performed time‑motion studies to improve ergonomics and reduce setup times."
 
     Awards:
       - title: Fulbright Scholarship
         date: 2021
-        summary: Scholarship to pursue PhD studies in the United States.
+        summary: "Scholarship to pursue PhD studies in the USA."
 
-      - title: Mombukagakusho Scholarship
+      - title: Monbukagakusho (MEXT) Scholarship
         date: 2013
-        summary: Japanese government scholarship for Master's studies.
+        summary: "Japanese government scholarship for Master's studies."
 
       - title: DAAD Scholarship
         date: 2007
-        summary: Scholarship for study in Germany.
+        summary: "Scholarship for study in Germany."
+
+      - title: Indian Government Scholarship
+        date: 2011
+        summary: "Scholarship for Mechatronics and its Application Program."
+
+      - title: Best Research Team (ESPE)
+        date: 2019
+        summary: "Award for projects of national interest, ESPE University."
 
       - title: IEEE Best Technical Chapter (RAS)
         date: 2018-2019
-        summary: First Place for IEEE RAS Latin America chapters.
+        summary: "First Place for IEEE RAS Latin America chapters."
 
     Skills:
-      - name: ROS 2 and Robotics
+      - name: Robotics Middleware
         level: Expert
-        keywords: "ROS 2, Navigation, Simulation, Robot Implementation"
+        keywords: "ROS 2 (Navigation, Simulation, Deployment), MoCap systems"
+
+      - name: Design & Prototyping
+        level: Advanced
+        keywords: "SolidWorks, Fusion360, Catia, 3D Printing, CAD/CAM/CAE"
+
+      - name: Embedded Systems
+        level: Advanced
+        keywords: "ESP32, Arduino, PIC, PCB Design, Signal Processing"
+
+      - name: Robotic Manipulators
+        level: Advanced
+        keywords: "KUKA, Fanuc, Motoman, Franka Emika"
 
       - name: Programming
         level: Advanced
-        keywords: "C++, Python, Git, Linux/Ubuntu"
-
-      - name: Industrial Automation
-        level: Advanced
-        keywords: "KUKA, Fanuc, Motoman, Siemens PLC, Allen Bradley"
-
-      - name: Mechatronics Design
-        level: Advanced
-        keywords: "Autodesk Inventor, Catia, SolidWorks, LabView, Matlab"
+        keywords: "Python, C++, Git, Linux/Ubuntu, MATLAB, LabView"
 
     Languages:
       - name: English
         summary: "TOEFL 110 — Fluent"
+      - name: Spanish
+        summary: Mother tongue
+
       - name: German
-        summary: "B1"
+        summary: Intermediate
       - name: Japanese
         summary: "JLPT N4"
 
     Memberships:
-      - name: IEEE
-        roles:
-          - President (Ecuador Section)
-          - Vice-President (Ecuador Section)
-          - Active Member
-
-    Certificates:
-      - name: Six Sigma Green Belt
-        issuer: Arizona University
-
-    Qualifications:
-      - name: Advanced Robotics
-        summary: "ROS 2 (navigation, simulation, implementation)"
-      - name: PLC Automation
-        summary: "Siemens, Allen Bradley"
-
-    Courses:
-      - title: Robotics (selected courses taught)
-        years: "2016-2025"
-
-    Contact:
-      phone: "+1 (267) 243-7851"
-      email: luisfescobarc@gmail.com
-      website: ""
-      available_from: "2026-05"
+      - label: "IEEE"
+        details: "IEEE-RAS Ecuador section President (2020); Vice-President (2019); Student Branch Counselor (2010-2012, 2016-2021)"

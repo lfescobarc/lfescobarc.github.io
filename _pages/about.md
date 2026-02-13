@@ -1,32 +1,36 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>West Virginia University</a>. Morgantown, WV — Robotics
+subtitle: <a href='https://farolab.wvu.edu/team/current-members/luis-escobar'>West Virginia University</a>. Morgantown, WV — Robotics
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>Office: 555 your office number</p>
-    <p>Address: Morgantown, WV, USA</p>
+    <p>Office: ESB 1010</p>
+    <p>Address: WVU, Morgantown, West Virginia</p>
     <p>Email: luisfescobarc@gmail.com</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Robotics Engineer and PhD student with experience in mechatronics, industrial automation, and robot systems. I work on navigation, simulation, and applied robotics projects. Feel free to download my CV, view publications, or contact me using the links in the header.
+I am a Mechatronics Engineer and a Ph.D. candidate in Robotics at West Virginia University, with over a decade of experience bridging the gap between industrial automation and advanced academic research.
 
-You can edit this page by modifying `_pages/about.md` or update structured details in `_data/cv.yml` used by the CV page.
+Currently, my work focuses on autonomous navigation for GNSS-denied environments. I design and fabricate custom multirotor UAVs and formulate energy-aware coverage path planning algorithms for complex, subterranean inspections. My daily technical stack heavily involves ROS 2, multi-robot coordination, and hardware-in-the-loop simulations.
+
+Prior to my doctoral studies, I served as a Professor and Head of the Robotics Laboratory at Universidad de las Fuerzas Armadas ESPE in Ecuador, where I led the implementation of the university's Mechatronics Engineering program. I also bring hands-on industry experience in continuous improvement and industrial automation, having deployed robotic systems and optimized workflows for engineering teams.
+
+I am actively seeking postdoctoral research opportunities starting in May 2026. Feel free to download my CV, view my latest publications, or contact me using the links in the header.
