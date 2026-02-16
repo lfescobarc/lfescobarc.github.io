@@ -50,4 +50,22 @@ Brief: A curated selection of my mobile‑robotics work, including navigation al
   </div>
 </div>
 
-Related publications are listed on the Publications page; select papers demonstrate the algorithms used and the datasets collected.
+<div class="text-justify" markdown="1">
+This project showcases a curated selection of mobile-robotics research and deployments. Work includes design of base robotic platforms, perception pipelines for real-world environments, and coordination strategies for multi-robot teams. The software stack integrates ROS-based components, lightweight IoT messaging for coordination, and experimental datasets collected in field trials.
+</div>
+
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/publication_preview/multi_robot_2022.png" title="Multi-robot collaborative work" class="img-fluid rounded z-depth-1 mx-auto d-block project-thumb" %}
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/publication_preview/multi_robot_2020.png" title="Educational multi-robot platform" class="img-fluid rounded z-depth-1 mx-auto d-block project-thumb" %}
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/farmbot_2022.jpg" title="Application: agricultural robot" class="img-fluid rounded z-depth-1 mx-auto d-block project-thumb" %}
+  </div>
+</div>
+
+<div class="text-justify" markdown="1">
+Selected papers and system descriptions: multi-robot coordination and IoT-based architectures are presented in several works, including collaborative trajectory planning and MQTT-based communication layers. These references describe platforms and methods closely related to the architecture used in this project ({% cite guerra2022multirobot %}, {% cite escobar2020andescon %}, {% cite gonzalez2018iot %}, {% cite toapanta2020autonomous %}).
+</div>
