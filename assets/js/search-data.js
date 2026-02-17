@@ -451,9 +451,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-mobile-robots-selected-work",
-          title: 'Mobile Robots (selected work)',
-          description: "Mobile robotics research and companion papers on navigation and perception.",
+          section: "News",},{id: "projects-cyber-physical-systems",
+          title: 'Cyber-Physical Systems',
+          description: "Mobile Robots &amp; IoT Architectures.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mobile-robots/";
             },},{id: "projects-selected-projects",
