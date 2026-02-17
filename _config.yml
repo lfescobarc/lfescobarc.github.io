@@ -56,8 +56,15 @@ navbar_fixed: true
 footer_fixed: true
 search_enabled: true
 socials_in_search: true
-posts_in_search: true
+posts_in_search: false
 bib_search: true
+# Sections to include in the Ctrl+K quick-nav. Can contain section names (e.g. "Projects")
+# or exact page/action titles (e.g. "About", "Publications", "CV").
+search_sections:
+  - About
+  - Publications
+  - Projects
+  - CV
 
 # Dimensions
 max_width: 930px

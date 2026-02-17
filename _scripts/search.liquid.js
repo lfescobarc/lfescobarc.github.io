@@ -339,3 +339,17 @@ ninja.data = [
     },
   {%- endif -%}
 ];
+
+{%- if site.search_sections -%}
+// If `search_sections` is defined in _config.yml, keep only those sections/titles/ids
+const allowedSections = {{ site.search_sections | jsonify }};
+if (Array.isArray(allowedSections) && allowedSections.length) {
+  ninja.data = ninja.data.filter((item) => {
+    if (!item) return false;
+    if (item.section && allowedSections.includes(item.section)) return true;
+    if (item.title && allowedSections.includes(item.title)) return true;
+    if (item.id && allowedSections.includes(item.id)) return true;
+    return false;
+  });
+}
+{%- endif -%}
