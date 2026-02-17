@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A research portfolio focused on Autonomous UAV Systems for underground inspection, Cyber-Physical Architectures for mobile robotics, and a selection of projects spanning motion simulation, social robotics and industrial optimization..
 nav: true
 nav_order: 3
 display_categories: [work, fun]

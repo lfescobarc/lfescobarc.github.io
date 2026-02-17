@@ -36,7 +36,9 @@ _styles: |
   <iframe class="embed-responsive-item" src="https://drive.google.com/file/d/1lPZNuNo0LifAi7NNBZAjzwJ1ojr-ZEPw/preview" allowfullscreen></iframe>
 </div>
 
+<div class="text-justify" markdown="1">
 This video details the engineering and deployment of an Omnidirectional Automated Guided Vehicle (AGV), developed to optimize logistics for a manufacturing company in Ecuador. As part of a multi-disciplinary team, I applied the Cyber-Physical System (CPS) frameworks from my research to architect a robust, industrial-grade platform. The final system features a custom holonomic drive with precise kinematic control, successfully validating advanced academic theories against the rigorous reliability requirements of a real-world production environment.
+</div>
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
@@ -51,7 +53,7 @@ This video details the engineering and deployment of an Omnidirectional Automate
 </div>
 
 <div class="text-justify" markdown="1">
-This research focuses on the design and implementation of autonomous mobile robot platforms conceived as true Cyber-Physical Systems (CPS). Moving beyond traditional standalone robotics, these platforms are engineered to serve as accessible, low-cost educational and research tools that seamlessly integrate physical hardware with digital computation. The mechanical design emphasizes omnidirectional mobility and modularity, developed using advanced mechatronic methodologies (such as the V-Model) to ensure they can be easily replicated and adapted for complex academic experiments in control theory and automation.
+This research focuses on the design and implementation of autonomous mobile robot platforms conceived as CPS. Moving beyond traditional standalone robotics, these platforms are engineered to serve as accessible, low-cost educational and research tools that seamlessly integrate physical hardware with digital computation. The mechanical design emphasizes omnidirectional mobility and modularity, developed using advanced mechatronic methodologies (such as the V-Model) to ensure they can be easily replicated and adapted for complex academic experiments in control theory and automation.
 </div>
 
 <div class="row">
