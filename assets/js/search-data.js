@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "Projects",
-          description: "A growing collection of your cool projects.",
+          description: "A research portfolio focused on Autonomous UAV Systems for underground inspection, Cyber-Physical Architectures for mobile robotics, and a selection of projects spanning motion simulation, social robotics and industrial optimization..",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -95,7 +95,7 @@ ninja.data = [{
               window.location.href = "/projects/mobile-robots/";
             },},{id: "projects-selected-projects",
           title: 'Selected Projects',
-          description: "A short selection of notable projects (6DOF arm, Flight simulator, and others).",
+          description: "A selection of projects spanning Motion Simulation, Social Robotics, and Industrial Optimization.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/selected-projects/";
             },},{id: "projects-uav-systems",
