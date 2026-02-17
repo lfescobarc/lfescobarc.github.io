@@ -50,7 +50,9 @@ YouTube demo:
   </div>
 </div>
 
+<div class="text-justify" markdown="1">
 Funded by the Alpha Foundation, this research addresses the critical challenges of deploying autonomous robots in hazardous, GNSS-denied subterranean environments. To overcome the limitations of darkness, dust, and lack of global positioning, we developed a custom multi-rotor UAV specifically engineered for underground mine inspection. The system features a robust, collision-tolerant design and utilizes LiDAR-Inertial Odometry (LIO), which proved superior to visual methods for maintaining accurate localization in harsh mine conditions. This hardware platform supports a multi-modal mapping workflow, successfully integrating global LiDAR maps with high-resolution RGB-D scans to create detailed 3D reconstructions of mine pillars and corridors.
+<div>
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
@@ -64,5 +66,6 @@ Funded by the Alpha Foundation, this research addresses the critical challenges 
   </div>
 </div>
 
+<div class="text-justify" markdown="1">
 Complementing the hardware development, we introduced a novel Energy-Aware Coverage Path Planning (CPP) algorithm to maximize mission efficiency. While traditional planners optimize for distance, our approach incorporates a specific multi-rotor energy model into a Mixed Integer Linear Programming (MILP) framework. This method generates flight paths that minimize battery consumption rather than just travel distance, achieving up to a 20% reduction in energy usage for 3D inspection tasks. Together, these advancements provide a comprehensive solution for safe, autonomous, and enduring robotic operations in complex underground environments.{% cite escobar2025energy %}
-
+<div>

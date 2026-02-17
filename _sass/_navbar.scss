@@ -206,3 +206,25 @@
     padding-left: 0.5rem;
   }
 }
+
+/* Stronger rules to catch any user-agent or third-party styles that still show bullets */
+@media (max-width: 575.98px) {
+  .navbar, .navbar .navbar-collapse, .navbar .navbar-nav, .navbar-collapse .navbar-nav {
+    list-style: none !important;
+    padding-left: 0 !important;
+    margin-left: 0 !important;
+  }
+
+  .navbar .navbar-nav > li, .navbar .navbar-nav li {
+    list-style: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  /* If any marker pseudo-elements are used, hide them */
+  .navbar .navbar-nav li::marker,
+  .navbar .navbar-nav li::before,
+  .navbar .navbar-nav li::after {
+    content: none !important;
+  }
+}
