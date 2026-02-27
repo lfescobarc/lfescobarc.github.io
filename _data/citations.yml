@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-18'
+  last_updated: '2026-02-27'
 papers:
   zsgYOZEAAAAJ:2osOgNQ5qMEC:
     citations: 6
@@ -90,7 +90,7 @@ papers:
     title: Implementation of an IoT Architecture based on MQTT for a Multi-Robot System
     year: '2018'
   zsgYOZEAAAAJ:mVmsd5A6BfQC:
-    citations: 0
+    citations: 1
     title: Energy-Aware Coverage Path Planner for Multirotor UAVS
     year: '2025'
   zsgYOZEAAAAJ:qjMakFHDy7sC:
