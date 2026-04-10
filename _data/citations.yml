@@ -1,22 +1,22 @@
 metadata:
-  last_updated: '2026-02-27'
+  last_updated: '2026-04-10'
 papers:
   zsgYOZEAAAAJ:2osOgNQ5qMEC:
     citations: 6
     title: "DESARROLLO DE UN SIMULADOR DE SISTEMAS DE MANUFACTURA FLEXIBLE CON INTERFAZ GR\xC1FICA BASADO EN REDES DE PETRI."
     year: '2018'
   zsgYOZEAAAAJ:3fE2CSJIrl8C:
-    citations: 8
+    citations: 9
     title: Multi-robot platform with features of Cyber-physical systems for education applications
     year: '2020'
   zsgYOZEAAAAJ:4TOpqqG69KYC:
     citations: 1
     title: Implementation of Collaborative Work Between Two SCARA Robots in a Robotic Cell for Continuous Classification of Products
     year: '2021'
-  zsgYOZEAAAAJ:9ZlFYXVOiuMC:
+  zsgYOZEAAAAJ:7PzlFSSx8tAC:
     citations: 0
-    title: "\" Construcci\xF3n e Implementaci\xF3n de una Subestaci\xF3n El\xE9ctrica de Distribuci\xF3n 69/13.8 kv y Dos Alimentadoras en 13.8 kv para Dotar Energ\xEDa El\xE9ctrica al Sector Camaronero y \u2026"
-    year: '2019'
+    title: Development of an Autonomous UAV for Multi-Modal Mapping of Underground Mines
+    year: '2026'
   zsgYOZEAAAAJ:9yKSN-GCB0IC:
     citations: 1
     title: 'Construction of a Computer Vision Test Platform: VISART for Facial Recognition in Social Robotics'
@@ -30,9 +30,13 @@ papers:
     title: Design of a spatial disorientation simulator using a modified Stewart-Gough platform
     year: '2018'
   zsgYOZEAAAAJ:MXK_kJrjxJIC:
-    citations: 16
+    citations: 17
     title: Real-time flight simulator construction with a network for training pilots using mechatronics and cyber-physical system approaches
     year: '2017'
+  zsgYOZEAAAAJ:QIV2ME_5wuYC:
+    citations: 0
+    title: "Dise\xF1o, construcci\xF3n e implementaci\xF3n de un prototipo de robot omnidireccional para impresi\xF3n 3D"
+    year: Unknown Year
   zsgYOZEAAAAJ:Tyk-4Ss8FVUC:
     citations: 4
     title: "Development of a social robot NAR for children\u2019s education"
@@ -70,7 +74,7 @@ papers:
     title: Multi-robot System for Collaborative Work Equipped with Trajectory Planning over IoT Architecture
     year: '2021'
   zsgYOZEAAAAJ:_FxGoFyzp5QC:
-    citations: 23
+    citations: 25
     title: Design and implementation of complex systems using Mechatronics and Cyber-Physical Systems approaches
     year: '2017'
   zsgYOZEAAAAJ:_kc_bZDykSQC:
@@ -81,16 +85,20 @@ papers:
     citations: 0
     title: Development of a Social Robot NAR
     year: '2019'
+  zsgYOZEAAAAJ:dhFuZR0502QC:
+    citations: 0
+    title: "DEPARTAMENTO DE CIENCIAS DE LA ENERG\xCDA Y MEC\xC1NICA"
+    year: Unknown Year
   zsgYOZEAAAAJ:hqOjcs7Dif8C:
     citations: 2
     title: Flexible manufacturing systems optimization with meta-heuristic algorithm using open source software
     year: '2020'
   zsgYOZEAAAAJ:kNdYIx-mwKoC:
-    citations: 13
+    citations: 14
     title: Implementation of an IoT Architecture based on MQTT for a Multi-Robot System
     year: '2018'
   zsgYOZEAAAAJ:mVmsd5A6BfQC:
-    citations: 1
+    citations: 3
     title: Energy-Aware Coverage Path Planner for Multirotor UAVS
     year: '2025'
   zsgYOZEAAAAJ:qjMakFHDy7sC:
