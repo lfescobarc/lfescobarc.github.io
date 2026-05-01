@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-17'
+  last_updated: '2026-05-01'
 papers:
   zsgYOZEAAAAJ:2osOgNQ5qMEC:
     citations: 6
@@ -22,7 +22,7 @@ papers:
     title: 'Construction of a Computer Vision Test Platform: VISART for Facial Recognition in Social Robotics'
     year: '2019'
   zsgYOZEAAAAJ:KlAtU1dfN6UC:
-    citations: 9
+    citations: 10
     title: Validation through a digital twin of a Stewart platform with irregular geometry with 6 DOF for simulation of a transport vehicle
     year: '2020'
   zsgYOZEAAAAJ:LkGwnXOMwfcC:
@@ -30,7 +30,7 @@ papers:
     title: Design of a spatial disorientation simulator using a modified Stewart-Gough platform
     year: '2018'
   zsgYOZEAAAAJ:MXK_kJrjxJIC:
-    citations: 16
+    citations: 17
     title: Real-time flight simulator construction with a network for training pilots using mechatronics and cyber-physical system approaches
     year: '2017'
   zsgYOZEAAAAJ:QIV2ME_5wuYC:
