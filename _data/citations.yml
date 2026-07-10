@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-05-18'
+  last_updated: '2026-07-10'
 papers:
   zsgYOZEAAAAJ:2osOgNQ5qMEC:
     citations: 6
     title: "DESARROLLO DE UN SIMULADOR DE SISTEMAS DE MANUFACTURA FLEXIBLE CON INTERFAZ GR\xC1FICA BASADO EN REDES DE PETRI."
     year: '2018'
   zsgYOZEAAAAJ:3fE2CSJIrl8C:
-    citations: 9
+    citations: 10
     title: Multi-robot platform with features of Cyber-physical systems for education applications
     year: '2020'
   zsgYOZEAAAAJ:4TOpqqG69KYC:
@@ -94,7 +94,7 @@ papers:
     title: Flexible manufacturing systems optimization with meta-heuristic algorithm using open source software
     year: '2020'
   zsgYOZEAAAAJ:kNdYIx-mwKoC:
-    citations: 14
+    citations: 16
     title: Implementation of an IoT Architecture based on MQTT for a Multi-Robot System
     year: '2018'
   zsgYOZEAAAAJ:mVmsd5A6BfQC:
@@ -102,7 +102,7 @@ papers:
     title: Energy-Aware Coverage Path Planner for Multirotor UAVS
     year: '2025'
   zsgYOZEAAAAJ:qjMakFHDy7sC:
-    citations: 4
+    citations: 6
     title: 6 DOF anthropomorphic robot as a platform for teaching robotics
     year: '2020'
   zsgYOZEAAAAJ:qxL8FJ1GzNcC:
