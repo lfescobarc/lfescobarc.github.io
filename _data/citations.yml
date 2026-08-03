@@ -1,13 +1,13 @@
 metadata:
-  last_updated: '2026-07-27'
+  last_updated: '2026-08-03'
 papers:
   zsgYOZEAAAAJ:2osOgNQ5qMEC:
-    citations: 6
+    citations: 7
     title: "DESARROLLO DE UN SIMULADOR DE SISTEMAS DE MANUFACTURA FLEXIBLE CON INTERFAZ GR\xC1FICA BASADO EN REDES DE PETRI."
     year: '2018'
   zsgYOZEAAAAJ:3fE2CSJIrl8C:
     citations: 10
-    title: Multi-robot platform with features of Cyber-physical systems for education applications
+    title: Multi-robot platform with features of cyber-physical systems for education applications
     year: '2020'
   zsgYOZEAAAAJ:4TOpqqG69KYC:
     citations: 1
@@ -25,6 +25,10 @@ papers:
     citations: 11
     title: Validation through a digital twin of a Stewart platform with irregular geometry with 6 DOF for simulation of a transport vehicle
     year: '2020'
+  zsgYOZEAAAAJ:L8Ckcad2t8MC:
+    citations: 0
+    title: Flexible Manufacturing Systems
+    year: '2021'
   zsgYOZEAAAAJ:LkGwnXOMwfcC:
     citations: 8
     title: Design of a spatial disorientation simulator using a modified Stewart-Gough platform
@@ -46,7 +50,7 @@ papers:
     title: Plant Layout Selection Procedure Based on Discrete Event Simulation Software
     year: '2021'
   zsgYOZEAAAAJ:UeHWp8X0CEIC:
-    citations: 5
+    citations: 4
     title: A new real-time flight simulator for military training using mechatronics and cyber-physical system methods
     year: '2019'
   zsgYOZEAAAAJ:UebtZRa9Y70C:
@@ -74,7 +78,7 @@ papers:
     title: Multi-robot System for Collaborative Work Equipped with Trajectory Planning over IoT Architecture
     year: '2021'
   zsgYOZEAAAAJ:_FxGoFyzp5QC:
-    citations: 25
+    citations: 26
     title: Design and implementation of complex systems using Mechatronics and Cyber-Physical Systems approaches
     year: '2017'
   zsgYOZEAAAAJ:_kc_bZDykSQC:
@@ -99,10 +103,10 @@ papers:
     year: '2018'
   zsgYOZEAAAAJ:mVmsd5A6BfQC:
     citations: 4
-    title: Energy-Aware Coverage Path Planner for Multirotor UAVS
+    title: Energy-aware coverage path planner for multirotor UAVs
     year: '2025'
   zsgYOZEAAAAJ:qjMakFHDy7sC:
-    citations: 6
+    citations: 5
     title: 6 DOF anthropomorphic robot as a platform for teaching robotics
     year: '2020'
   zsgYOZEAAAAJ:qxL8FJ1GzNcC:
