@@ -1,8 +1,8 @@
 cv:
-  name: "Luis F. Escobar, Ph.D. Candidate"
-  label: "Mechatronics/Robotics Engineer — PhD Candidate"
+  name: "Luis F. Escobar, Ph.D."
+  label: "Mechatronics Engineer — Ph.D. Robotics"
   email: luisfescobarc@gmail.com
-  location: Morgantown, WV, USA
+  location: Quito, Ecuador
   image: ""
   summary: "Mechatronics and robotics researcher focused on GNSS‑denied autonomous systems, ROS 2, multi‑robot coordination, UAV energy optimization, and industrial automation. Available for postdoctoral roles starting May 2026."
   research_interests: "Mechatronics, Robotics, GNSS‑denied Autonomous Systems, ROS 2, Multi‑Robot Coordination, UAV Path Planning, UAV Energy Optimization, Industrial Automation, Mechatronics Design, Engineering Education"
@@ -14,16 +14,16 @@ cv:
       url: https://lfescobarc.github.io
 
   address:
-    city: Morgantown
-    region: WV
-    country: USA
+    city: Quito
+    region: Pichincha
+    country: Ecuador
 
   sections:
     Education:
       - institution: West Virginia University
         location: Morgantown, USA
         area: Robotics
-        studyType: PhD Candidate
+        studyType: Ph.D.
         start_date: 2023
         end_date: 2026
         note: "Dissertation: Energy Aware path planning for multirotor UAVs"
@@ -54,7 +54,7 @@ cv:
         position: Graduate Research Assistant
         location: Morgantown, USA
         start_date: 2023
-        end_date: Present
+        end_date: 2026
         summary: "Developing autonomous navigation stacks for GNSS‑denied underground environments; leading mechatronic design and prototyping of multirotor UAVs; implementing energy‑aware optimization for coverage path planning."
 
       - company: Universidad de las Fuerzas Armadas ESPE
@@ -68,7 +68,7 @@ cv:
         position: Senior Engineer
         location: Quito, Ecuador
         start_date: 2016
-        end_date: 2021
+        end_date: 2026
         summary: "Led continuous improvement initiatives and implemented Kanban and project management strategies to optimize operational workflows."
 
       - company: Universidad de las Fuerzas Armadas ESPE
@@ -94,15 +94,15 @@ cv:
 
     Awards:
       - title: Fulbright Scholarship
-        date: 2021
+        date: 2021-2026
         summary: "Scholarship to pursue PhD studies in the USA."
 
       - title: Monbukagakusho (MEXT) Scholarship
-        date: 2013
+        date: 2012-2015
         summary: "Japanese government scholarship for Master's studies."
 
       - title: DAAD Scholarship
-        date: 2007
+        date: 2007-2008
         summary: "Scholarship for study in Germany."
 
       - title: Indian Government Scholarship
