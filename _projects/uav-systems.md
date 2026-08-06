@@ -33,7 +33,7 @@ _styles: |
   }
 ---
 
-YouTube demo: 
+YouTube demo:
 
 <div class="embed-responsive embed-responsive-16by9 mt-3 mb-3">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/fpPM8RrUx34" allowfullscreen></iframe>

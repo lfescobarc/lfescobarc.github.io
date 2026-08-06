@@ -38,6 +38,7 @@ This page highlights a few notable projects chosen for their technical impact an
 ### **Motion Simulation & Cyber-Physical Systems**
 
 One of my most extensive projects involved the development of a **Real-Time Flight Simulator** for pilot training. We utilized a modified Stewart-Gough platform to replicate flight dynamics and validated the system through a digital twin {% cite serrano2018spatial %}. The system was designed using **Cyber-Physical Systems (CPS)** methodologies, integrating a spatial disorientation module to simulate hazardous flight conditions safely {% cite villacis2017icpcsi %}.
+
 </div>
 
 <div class="embed-responsive embed-responsive-16by9 mt-3 mb-3">
@@ -51,7 +52,8 @@ This platform demonstrated how kinematic theory could be applied to build robust
 
 ### **Social Robotics & Education**
 
-My interest in accessible robotics led to the development of several platforms designed for human-robot interaction. We built  a **6-DOF anthropomorphic robot** to serve as a testbed for teaching kinematics and trajectory planning {% cite galarza2020aim %}. Robots specifically engineered for children's education and human interaction as **NAR** {% cite espinoza2020nar %} and **VISART** {% cite rodriguez2020visart %}.
+My interest in accessible robotics led to the development of several platforms designed for human-robot interaction. We built a **6-DOF anthropomorphic robot** to serve as a testbed for teaching kinematics and trajectory planning {% cite galarza2020aim %}. Robots specifically engineered for children's education and human interaction as **NAR** {% cite espinoza2020nar %} and **VISART** {% cite rodriguez2020visart %}.
+
 </div>
 
 <div class="row justify-content-center">
