@@ -256,7 +256,6 @@ DEPENDENCIES
   jekyll-minifier
   jekyll-paginate-v2
   jekyll-regex-replace
-  jekyll-sass-converter (~> 3.0, >= 3.0.0)
   jekyll-scholar
   jekyll-sitemap
   jekyll-socials
@@ -267,7 +266,6 @@ DEPENDENCIES
   jemoji
   observer
   ostruct
-  sass-embedded
 
 BUNDLED WITH
    2.5.23
