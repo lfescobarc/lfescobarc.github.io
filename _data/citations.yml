@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-08-14'
+  last_updated: '2026-08-19'
 papers:
   zsgYOZEAAAAJ:2osOgNQ5qMEC:
     citations: 7
     title: "DESARROLLO DE UN SIMULADOR DE SISTEMAS DE MANUFACTURA FLEXIBLE CON INTERFAZ GR\xC1FICA BASADO EN REDES DE PETRI."
     year: '2018'
   zsgYOZEAAAAJ:3fE2CSJIrl8C:
-    citations: 11
+    citations: 12
     title: Multi-robot platform with features of cyber-physical systems for education applications
     year: '2020'
   zsgYOZEAAAAJ:4TOpqqG69KYC:
@@ -73,6 +73,10 @@ papers:
     citations: 0
     title: Design, Construction and Evaluation of a 3DOF Urban Planting System
     year: '2021'
+  zsgYOZEAAAAJ:ZeXyd9-uunAC:
+    citations: 5
+    title: Multi-Robot platform with features of Cyberphysical systems for education applications [Paper presentation]. 2020 Ieee Andescon, October
+    year: '2020'
   zsgYOZEAAAAJ:Zph67rFs4hoC:
     citations: 1
     title: Multi-robot System for Collaborative Work Equipped with Trajectory Planning over IoT Architecture
@@ -98,7 +102,7 @@ papers:
     title: Flexible manufacturing systems optimization with meta-heuristic algorithm using open source software
     year: '2020'
   zsgYOZEAAAAJ:kNdYIx-mwKoC:
-    citations: 16
+    citations: 17
     title: Implementation of an IoT Architecture based on MQTT for a Multi-Robot System
     year: '2018'
   zsgYOZEAAAAJ:mVmsd5A6BfQC:
@@ -106,7 +110,7 @@ papers:
     title: Energy-aware coverage path planner for multirotor UAVs
     year: '2025'
   zsgYOZEAAAAJ:qjMakFHDy7sC:
-    citations: 6
+    citations: 7
     title: 6 DOF anthropomorphic robot as a platform for teaching robotics
     year: '2020'
   zsgYOZEAAAAJ:qxL8FJ1GzNcC:
